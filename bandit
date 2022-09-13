@@ -1,9 +1,27 @@
-level0 -> level1
+level 0
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
+level 0 -> level 1
 cat reademe
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
-level1 -> level2
+level 1 -> level 2
 cat ./-
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+level 2 -> level 3
+ cat spaces\ in\ this\ filename 
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+level 3 -> level 4
+$ls -al
+inhere$ ls -al
+cat .hidden
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+
+
+
+
 
 
