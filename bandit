@@ -30,6 +30,55 @@ cat ./-file00
 cat ./-file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
+lavel 5 -> level 6
+cd ./ inhere
+
+
+ls
+
+
+fille ./*
+
+file./maybehere00/*
+fine ./* -size 1033c
+find ./* -siwze 1033c./maybehere07/.file2
+ file ./maybehere07/.file2
+./maybehere07/.file2: ASCII text, with very long lines (1000)
+cat ./maybehere07/.file2
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+lavel 6 -> lavel 7
+
+bandit6@bandit:~$ ls -a
+
+.  ..  .bash_logout  .bashrc  .profile
+
+bandit6@bandit:~$ ls -la
+
+bandit6@bandit:~$ ls -al /etc/bandit_pass/bandit7
+
+-r-------- 1 bandit7 bandit7 33 Sep  1 06:30 /etc/bandit_pass/bandit7
+
+bandit6@bandit:~$ ls -al /var/lib/dpkg/info/bandit7.password
+
+-rw-r----- 1 bandit7 bandit6 33 Sep  1 06:30 /var/lib/dpkg/info/bandit7.password
+
+bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
+
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+bandit6@bandit:~$ ^C
+
+lavel 7 -> lavel 8
+
+
+
+
+
+
+
+
+
 
 
 
