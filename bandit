@@ -20,7 +20,17 @@ cat .hidden
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 lavel 4 -> level 5
-cat
+cd ./inhere
+cat ./-*
+cat 'ls'
+./-*
+echo ./-*
+echo asdf
+cat ./-file00
+cat ./-file07
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+
 
 
 
