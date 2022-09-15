@@ -71,6 +71,11 @@ bandit6@bandit:~$ ^C
 
 lavel 7 -> lavel 8
 
+bandit7@bandit:~$ cat dat.txt | grep -E "millionth"
+cat: dat.txt: No such file or directory
+bandit7@bandit:~$ cat data.txt | grep -E "millionth"
+millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
 
 
 
