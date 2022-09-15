@@ -77,8 +77,17 @@ bandit7@bandit:~$ cat data.txt | grep -E "millionth"
 millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 lavel 8 -> lavel 9
+
 cat data.txt| sort 
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+lavel 9 -> lavel 10
+
+G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+
+
+
 
 
 
