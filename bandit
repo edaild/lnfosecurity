@@ -14,9 +14,10 @@ level 2 -> level 3
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 level 3 -> level 4
-$ls -al
-inhere$ ls -al
-cat .hidden
+ls
+cd inhere
+find
+cat ./.hidden
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 lavel 4 -> level 5
